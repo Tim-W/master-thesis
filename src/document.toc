@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{iii}{chapter*.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Preface}{iii}{chapter*.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{v}{section*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{vii}{section*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{ix}{section*.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Evaluation}{3}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Related work}{5}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.0.1}Decentralized audio streaming services}{5}{subsection.3.0.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.0.2}Decentralized content delivery networks}{5}{subsection.3.0.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.0.3}Incentives for file spreading}{5}{subsection.3.0.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {4}Conclusion}{7}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{9}{section*.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acronyms}{11}{chapter*.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {A}A}{13}{appendix.A}% 
